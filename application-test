@@ -1,0 +1,3 @@
+common:
+  maxLen: 88
+  minLen: 10
