@@ -1,6 +1,3 @@
-server:
-  servlet:
-    context-path: /cloud-web-dev
 common:
   maxLen: 90
   minLen: 17
